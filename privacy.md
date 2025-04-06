@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Privacy Policy - Jarvis AI
-description: Learn how Jarvis AI protects your privacy and handles your data with the utmost security.
+title: Privacy Policy - Alpha AI
+description: Learn how Alpha AI protects your privacy and handles your data with the utmost security.
 ---
 
 # Privacy Policy
 
-At Jarvis AI, we believe that privacy is a fundamental right. This policy explains how we collect, use, and protect your data.
+At Alpha AI, we believe that privacy is a fundamental right. This policy explains how we collect, use, and protect your data.
 
 ## Our Privacy Principles
 
@@ -100,7 +100,7 @@ We regularly update our privacy policy to reflect:
 ## Contact Us
 
 For privacy-related questions or concerns:
-- Email: privacy@jarvis-ai.com
+- Email: privacy@alpha-ai.com
 - Phone: +1 (555) 123-4567
 - Address: 123 Privacy Lane, Tech Valley, CA 94025
 

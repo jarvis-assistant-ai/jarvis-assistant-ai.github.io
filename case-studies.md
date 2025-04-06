@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Case Studies - Jarvis AI
-description: Explore how Jarvis AI has helped organizations transform their operations with AI solutions.
+title: Case Studies - Alpha AI
+description: Explore how Alpha AI has helped organizations transform their operations with AI solutions.
 ---
 
 # Case Studies
 
-Discover how organizations across various industries have leveraged Jarvis AI's solutions to achieve remarkable results.
+Discover how organizations across various industries have leveraged Alpha AI's solutions to achieve remarkable results.
 
 ## Featured Success Stories
 
@@ -65,7 +65,7 @@ Discover how organizations across various industries have leveraged Jarvis AI's 
 
 ## Client Testimonials
 
-*"Jarvis AI's solutions have transformed our operations. The insights we've gained have been invaluable to our decision-making process."*  
+*"Alpha AI's solutions have transformed our operations. The insights we've gained have been invaluable to our decision-making process."*  
 — Michael Rodriguez, CTO, Global Investment Bank
 
 *"The implementation of Jarvis Assistant has revolutionized our patient care processes. It's like having an extra team member who's always on top of things."*  
@@ -73,4 +73,4 @@ Discover how organizations across various industries have leveraged Jarvis AI's 
 
 ---
 
-[Contact us](/contact) to learn how Jarvis AI can help transform your organization. 
+[Contact us](/contact) to learn how Alpha AI can help transform your organization. 

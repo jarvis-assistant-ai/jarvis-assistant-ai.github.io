@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Jarvis AI - Your Comprehensive AI Assistant
-description: Jarvis AI provides a complete AI assistant solution for personal and professional life, offering privacy-focused data management, personalized advice, and smart home integration.
+title: Alpha AI - Your Comprehensive AI Assistant
+description: Alpha AI provides a complete AI assistant solution for personal and professional life, offering privacy-focused data management, personalized advice, and smart home integration.
 ---
 
-# Welcome to Jarvis AI
+# Welcome to Alpha AI
 
-![Jarvis AI Logo](/assets/images/jarvis-logo.svg)
+![Alpha AI Logo](/assets/images/jarvis-logo.svg)
 
 ## Your Complete AI Life Assistant
 
-Jarvis AI is more than just an assistant - it's your comprehensive life companion that understands, organizes, and enhances every aspect of your daily life while maintaining the highest standards of privacy and security.
+Alpha AI is more than just an assistant - it's your comprehensive life companion that understands, organizes, and enhances every aspect of your daily life while maintaining the highest standards of privacy and security.
 
 ## Core Features
 
@@ -44,7 +44,7 @@ Jarvis AI is more than just an assistant - it's your comprehensive life companio
 
 ## Platform Integration
 
-Jarvis AI seamlessly integrates with your devices and platforms:
+Alpha AI seamlessly integrates with your devices and platforms:
 
 - **Mobile**: iOS and Android apps
 - **Desktop**: Browser extensions and desktop apps
@@ -52,7 +52,7 @@ Jarvis AI seamlessly integrates with your devices and platforms:
 - **Wearables**: Smart watches and fitness trackers
 - **Automotive**: Car infotainment systems
 
-## Why Choose Jarvis AI?
+## Why Choose Alpha AI?
 
 - **Privacy First**: Your data belongs to you
 - **Comprehensive**: One assistant for all aspects of life
@@ -66,7 +66,7 @@ Ready to transform your life with AI? [Contact us](/contact) to learn more or st
 
 ---
 
-*"Jarvis AI has become an indispensable part of my daily life, helping me manage everything from my schedule to my health, all while keeping my data private and secure."*  
+*"Alpha AI has become an indispensable part of my daily life, helping me manage everything from my schedule to my health, all while keeping my data private and secure."*  
 — Dr. Sarah Chen, Technology Executive
 
 ---

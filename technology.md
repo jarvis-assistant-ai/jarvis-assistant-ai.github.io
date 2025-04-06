@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Our Technology - Jarvis AI
-description: Learn about the cutting-edge technology powering Jarvis AI's solutions.
+title: Our Technology - Alpha AI
+description: Learn about the cutting-edge technology powering Alpha AI's solutions.
 ---
 
 # Our Technology
 
-At Jarvis AI, we're at the forefront of artificial intelligence innovation. Our technology stack combines the latest advancements in AI, machine learning, and data science to deliver powerful solutions.
+At Alpha AI, we're at the forefront of artificial intelligence innovation. Our technology stack combines the latest advancements in AI, machine learning, and data science to deliver powerful solutions.
 
 ## Core Technologies
 

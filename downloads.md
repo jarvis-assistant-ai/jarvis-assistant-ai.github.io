@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Downloads - Jarvis AI
-description: Download Jarvis AI applications and plugins for your devices and platforms.
+title: Downloads - Alpha AI
+description: Download Alpha AI applications and plugins for your devices and platforms.
 ---
 
 # Downloads
 
-Get started with Jarvis AI by downloading our applications and plugins for your preferred platforms.
+Get started with Alpha AI by downloading our applications and plugins for your preferred platforms.
 
 ## Mobile Applications
 

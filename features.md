@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Features - Jarvis AI
-description: Explore the comprehensive features of Jarvis AI, your complete life assistant.
+title: Features - Alpha AI
+description: Explore the comprehensive features of Alpha AI, your complete life assistant.
 ---
 
 # Features
@@ -128,9 +128,9 @@ description: Explore the comprehensive features of Jarvis AI, your complete life
 
 ## Getting Started
 
-Ready to experience the power of Jarvis AI? [Download our apps](/downloads) or [contact us](/contact) to learn more.
+Ready to experience the power of Alpha AI? [Download our apps](/downloads) or [contact us](/contact) to learn more.
 
 ---
 
-*"Jarvis AI has transformed how I manage my daily life. From health tracking to home automation, it's like having a personal assistant who knows exactly what I need."*  
+*"Alpha AI has transformed how I manage my daily life. From health tracking to home automation, it's like having a personal assistant who knows exactly what I need."*  
 — Michael Rodriguez, Technology Consultant 

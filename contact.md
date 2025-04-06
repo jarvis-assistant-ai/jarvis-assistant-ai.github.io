@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contact Us - Jarvis AI
-description: Get in touch with Jarvis AI to learn more about our AI solutions and schedule a demo.
+title: Contact Us - Alpha AI
+description: Get in touch with Alpha AI to learn more about our AI solutions and schedule a demo.
 ---
 
 # Contact Us
@@ -34,4 +34,4 @@ Saturday - Sunday: Closed
 ---
 
 *"We're committed to helping businesses harness the power of AI. Let's discuss how we can help you achieve your goals."*  
-— The Jarvis AI Team 
+— The Alpha AI Team 
